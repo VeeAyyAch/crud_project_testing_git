@@ -7,7 +7,7 @@ A simple Spring Boot application with a GET endpoint that returns different mess
 ### GET /hello/{id}
 
 Returns a greeting message based on the ID:
-- If `id = 1`: Returns "Hello vaibhav"
+- If `id = 1`: Returns "Hello vaibhav ok"
 - For any other `id`: Returns "Hello all"
 
 ## How to Run
