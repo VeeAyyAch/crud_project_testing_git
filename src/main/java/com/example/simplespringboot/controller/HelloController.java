@@ -24,7 +24,7 @@ public class HelloController {
         if (id == 1) {
             return "Hello vaibhav rokde haha";
         } else {
-            return "Hello all";
+            return "Hello all haha";
         }
     }
 }
