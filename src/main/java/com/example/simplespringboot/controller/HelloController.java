@@ -22,7 +22,7 @@ public class HelloController {
             @Parameter(description = "ID of the user. Use 1 for Vaibhav, any other number for general greeting", required = true)
             @PathVariable Long id) {
         if (id == 1) {
-            return "Hello vaibhav";
+            return "Hello vaibhav rokde";
         } else {
             return "Hello all";
         }
